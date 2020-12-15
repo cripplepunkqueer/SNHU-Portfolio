@@ -1,0 +1,34 @@
+﻿  calculateNum.cpp
+C:\Users\slain\source\repos\AirgeadBanking\AirgeadBanking\calculateNum.h(13,1): error C2143: syntax error: missing ';' before '}'
+C:\Users\slain\source\repos\AirgeadBanking\AirgeadBanking\calculateNum.h(13,1): error C2533: 'calculateNum': constructors not allowed a return type
+C:\Users\slain\source\repos\AirgeadBanking\AirgeadBanking\calculateNum.cpp(7,2): error C2065: 'months': undeclared identifier
+C:\Users\slain\source\repos\AirgeadBanking\AirgeadBanking\calculateNum.cpp(7,11): error C2065: 'numYears': undeclared identifier
+C:\Users\slain\source\repos\AirgeadBanking\AirgeadBanking\calculateNum.cpp(8,2): error C2065: 'totalAmount': undeclared identifier
+C:\Users\slain\source\repos\AirgeadBanking\AirgeadBanking\calculateNum.cpp(8,16): error C2065: 'initialInvest': undeclared identifier
+C:\Users\slain\source\repos\AirgeadBanking\AirgeadBanking\calculateNum.cpp(16,22): error C2065: 'numYears': undeclared identifier
+C:\Users\slain\source\repos\AirgeadBanking\AirgeadBanking\calculateNum.cpp(17,3): error C2065: 'yearInterest': undeclared identifier
+C:\Users\slain\source\repos\AirgeadBanking\AirgeadBanking\calculateNum.cpp(19,4): error C2065: 'interestAmount': undeclared identifier
+C:\Users\slain\source\repos\AirgeadBanking\AirgeadBanking\calculateNum.cpp(19,22): error C2065: 'totalAmount': undeclared identifier
+C:\Users\slain\source\repos\AirgeadBanking\AirgeadBanking\calculateNum.cpp(19,36): error C2065: 'monthlyDep': undeclared identifier
+C:\Users\slain\source\repos\AirgeadBanking\AirgeadBanking\calculateNum.cpp(19,52): error C2065: 'annualInterest': undeclared identifier
+C:\Users\slain\source\repos\AirgeadBanking\AirgeadBanking\calculateNum.cpp(20,4): error C2065: 'yearInterest': undeclared identifier
+C:\Users\slain\source\repos\AirgeadBanking\AirgeadBanking\calculateNum.cpp(20,19): error C2065: 'yearInterest': undeclared identifier
+C:\Users\slain\source\repos\AirgeadBanking\AirgeadBanking\calculateNum.cpp(20,34): error C2065: 'interestAmount': undeclared identifier
+C:\Users\slain\source\repos\AirgeadBanking\AirgeadBanking\calculateNum.cpp(21,4): error C2065: 'totalAmount': undeclared identifier
+C:\Users\slain\source\repos\AirgeadBanking\AirgeadBanking\calculateNum.cpp(21,18): error C2065: 'totalAmount': undeclared identifier
+C:\Users\slain\source\repos\AirgeadBanking\AirgeadBanking\calculateNum.cpp(21,32): error C2065: 'monthlyDep': undeclared identifier
+C:\Users\slain\source\repos\AirgeadBanking\AirgeadBanking\calculateNum.cpp(21,45): error C2065: 'interestAmount': undeclared identifier
+C:\Users\slain\source\repos\AirgeadBanking\AirgeadBanking\calculateNum.cpp(23,41): error C3861: 'setprecision': identifier not found
+C:\Users\slain\source\repos\AirgeadBanking\AirgeadBanking\calculateNum.cpp(23,60): error C2065: 'totalAmount': undeclared identifier
+C:\Users\slain\source\repos\AirgeadBanking\AirgeadBanking\calculateNum.cpp(23,89): error C2065: 'yearInterest': undeclared identifier
+  main.cpp
+C:\Users\slain\source\repos\AirgeadBanking\AirgeadBanking\calculateNum.h(13,1): error C2143: syntax error: missing ';' before '}'
+C:\Users\slain\source\repos\AirgeadBanking\AirgeadBanking\calculateNum.h(13,1): error C2533: 'calculateNum': constructors not allowed a return type
+C:\Users\slain\source\repos\AirgeadBanking\AirgeadBanking\main.cpp(11,9): error C2065: 'initialInvest': undeclared identifier
+C:\Users\slain\source\repos\AirgeadBanking\AirgeadBanking\main.cpp(14,9): error C2065: 'monthlyDep': undeclared identifier
+C:\Users\slain\source\repos\AirgeadBanking\AirgeadBanking\main.cpp(17,9): error C2065: 'annualInterest': undeclared identifier
+C:\Users\slain\source\repos\AirgeadBanking\AirgeadBanking\main.cpp(20,9): error C2065: 'numYears': undeclared identifier
+C:\Users\slain\source\repos\AirgeadBanking\AirgeadBanking\main.cpp(22,14): error C2248: 'calculateNum::calculateNum': cannot access private member declared in class 'calculateNum'
+C:\Users\slain\source\repos\AirgeadBanking\AirgeadBanking\calculateNum.h(11): message : see declaration of 'calculateNum::calculateNum'
+C:\Users\slain\source\repos\AirgeadBanking\AirgeadBanking\calculateNum.h(2): message : see declaration of 'calculateNum'
+  Generating Code...
