@@ -1,0 +1,10 @@
+Briefly summarize the requirements and goals of the app you developed. What user needs was this app designed to address?
+  The requirements of this app are to build a functional app that used a database to store events and tasks and a username and password for logging in.  It needs to allow a user to login or sign up usinfg one bvutton that adds them to the database.  There should be options to edit and delete events.
+What screens and features were necessary to support user needs and produce a user-centered UI for the app? How did your UI designs keep users in mind? Why were your designs successful?
+  A login screen, a sign up screen, home were all made - ideally I would add an edit screen, options for daily, weekly, monthly displays of the events as well.
+How did you approach the process of coding your app? What techniques or strategies did you use? How could those be applied in the future?
+  Truth be told I didn't have the best time trying to code this and ultimately was not able to, but typically I try to do it a little bit over time and work backwards from a need that needed to be filled.
+How did you test to ensure your code was functional? Why is this process important and what did it reveal?
+  I was missing a HAXM plugin?  Could not find where to install it for the life of  me either so I couldnt do any testing this entire term.
+Considering the full app design and development process, from initial planning to finalization, where did you have to innovate to overcome a challenge?
+  I actually wanted to still see the app come to fruition somehow so I went to Canva to make a mockup of what I had in mind!
